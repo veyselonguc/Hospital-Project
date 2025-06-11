@@ -1,0 +1,243 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\veyse\\OneDrive\\Belgeler\\Projelerimm\\C#\\HospitalProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16FBCA5B-BE9D-4936-9BDD-FA0FC0B3AD95}|HospitalProject\\HospitalProject.csproj|c:\\users\\veyse\\onedrive\\belgeler\\projelerimm\\c#\\hospitalproject\\hospitalproject\\entities\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16FBCA5B-BE9D-4936-9BDD-FA0FC0B3AD95}|HospitalProject\\HospitalProject.csproj|solutionrelative:hospitalproject\\entities\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16FBCA5B-BE9D-4936-9BDD-FA0FC0B3AD95}|HospitalProject\\HospitalProject.csproj|C:\\Users\\veyse\\OneDrive\\Belgeler\\Projelerimm\\C#\\HospitalProject\\hospitalproject\\enums\\appointmentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16FBCA5B-BE9D-4936-9BDD-FA0FC0B3AD95}|HospitalProject\\HospitalProject.csproj|solutionrelative:hospitalproject\\enums\\appointmentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16FBCA5B-BE9D-4936-9BDD-FA0FC0B3AD95}|HospitalProject\\HospitalProject.csproj|C:\\Users\\veyse\\OneDrive\\Belgeler\\Projelerimm\\C#\\HospitalProject\\hospitalproject\\entities\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16FBCA5B-BE9D-4936-9BDD-FA0FC0B3AD95}|HospitalProject\\HospitalProject.csproj|solutionrelative:hospitalproject\\entities\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16FBCA5B-BE9D-4936-9BDD-FA0FC0B3AD95}|HospitalProject\\HospitalProject.csproj|C:\\Users\\veyse\\OneDrive\\Belgeler\\Projelerimm\\C#\\HospitalProject\\hospitalproject\\entities\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16FBCA5B-BE9D-4936-9BDD-FA0FC0B3AD95}|HospitalProject\\HospitalProject.csproj|solutionrelative:hospitalproject\\entities\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16FBCA5B-BE9D-4936-9BDD-FA0FC0B3AD95}|HospitalProject\\HospitalProject.csproj|C:\\Users\\veyse\\OneDrive\\Belgeler\\Projelerimm\\C#\\HospitalProject\\hospitalproject\\entities\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16FBCA5B-BE9D-4936-9BDD-FA0FC0B3AD95}|HospitalProject\\HospitalProject.csproj|solutionrelative:hospitalproject\\entities\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16FBCA5B-BE9D-4936-9BDD-FA0FC0B3AD95}|HospitalProject\\HospitalProject.csproj|C:\\Users\\veyse\\OneDrive\\Belgeler\\Projelerimm\\C#\\HospitalProject\\hospitalproject\\entities\\patientcomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16FBCA5B-BE9D-4936-9BDD-FA0FC0B3AD95}|HospitalProject\\HospitalProject.csproj|solutionrelative:hospitalproject\\entities\\patientcomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16FBCA5B-BE9D-4936-9BDD-FA0FC0B3AD95}|HospitalProject\\HospitalProject.csproj|C:\\Users\\veyse\\OneDrive\\Belgeler\\Projelerimm\\C#\\HospitalProject\\hospitalproject\\entities\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16FBCA5B-BE9D-4936-9BDD-FA0FC0B3AD95}|HospitalProject\\HospitalProject.csproj|solutionrelative:hospitalproject\\entities\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16FBCA5B-BE9D-4936-9BDD-FA0FC0B3AD95}|HospitalProject\\HospitalProject.csproj|C:\\Users\\veyse\\OneDrive\\Belgeler\\Projelerimm\\C#\\HospitalProject\\hospitalproject\\entities\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16FBCA5B-BE9D-4936-9BDD-FA0FC0B3AD95}|HospitalProject\\HospitalProject.csproj|solutionrelative:hospitalproject\\entities\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16FBCA5B-BE9D-4936-9BDD-FA0FC0B3AD95}|HospitalProject\\HospitalProject.csproj|C:\\Users\\veyse\\OneDrive\\Belgeler\\Projelerimm\\C#\\HospitalProject\\hospitalproject\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16FBCA5B-BE9D-4936-9BDD-FA0FC0B3AD95}|HospitalProject\\HospitalProject.csproj|solutionrelative:hospitalproject\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16FBCA5B-BE9D-4936-9BDD-FA0FC0B3AD95}|HospitalProject\\HospitalProject.csproj|C:\\Users\\veyse\\OneDrive\\Belgeler\\Projelerimm\\C#\\HospitalProject\\hospitalproject\\entities\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16FBCA5B-BE9D-4936-9BDD-FA0FC0B3AD95}|HospitalProject\\HospitalProject.csproj|solutionrelative:hospitalproject\\entities\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppointmentStatus.cs",
+              "DocumentMoniker": "C:\\Users\\veyse\\OneDrive\\Belgeler\\Projelerimm\\C#\\HospitalProject\\HospitalProject\\Enums\\AppointmentStatus.cs",
+              "RelativeDocumentMoniker": "HospitalProject\\Enums\\AppointmentStatus.cs",
+              "ToolTip": "C:\\Users\\veyse\\OneDrive\\Belgeler\\Projelerimm\\C#\\HospitalProject\\HospitalProject\\Enums\\AppointmentStatus.cs",
+              "RelativeToolTip": "HospitalProject\\Enums\\AppointmentStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T14:42:32.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Slider.cs",
+              "DocumentMoniker": "C:\\Users\\veyse\\OneDrive\\Belgeler\\Projelerimm\\C#\\HospitalProject\\HospitalProject\\Entities\\Slider.cs",
+              "RelativeDocumentMoniker": "HospitalProject\\Entities\\Slider.cs",
+              "ToolTip": "C:\\Users\\veyse\\OneDrive\\Belgeler\\Projelerimm\\C#\\HospitalProject\\HospitalProject\\Entities\\Slider.cs",
+              "RelativeToolTip": "HospitalProject\\Entities\\Slider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T14:39:37.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\veyse\\OneDrive\\Belgeler\\Projelerimm\\C#\\HospitalProject\\HospitalProject\\Entities\\Service.cs",
+              "RelativeDocumentMoniker": "HospitalProject\\Entities\\Service.cs",
+              "ToolTip": "C:\\Users\\veyse\\OneDrive\\Belgeler\\Projelerimm\\C#\\HospitalProject\\HospitalProject\\Entities\\Service.cs",
+              "RelativeToolTip": "HospitalProject\\Entities\\Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T14:39:36.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\veyse\\OneDrive\\Belgeler\\Projelerimm\\C#\\HospitalProject\\HospitalProject\\Entities\\Appointment.cs",
+              "RelativeDocumentMoniker": "HospitalProject\\Entities\\Appointment.cs",
+              "ToolTip": "C:\\Users\\veyse\\OneDrive\\Belgeler\\Projelerimm\\C#\\HospitalProject\\HospitalProject\\Entities\\Appointment.cs",
+              "RelativeToolTip": "HospitalProject\\Entities\\Appointment.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T14:39:27.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PatientComment.cs",
+              "DocumentMoniker": "C:\\Users\\veyse\\OneDrive\\Belgeler\\Projelerimm\\C#\\HospitalProject\\HospitalProject\\Entities\\PatientComment.cs",
+              "RelativeDocumentMoniker": "HospitalProject\\Entities\\PatientComment.cs",
+              "ToolTip": "C:\\Users\\veyse\\OneDrive\\Belgeler\\Projelerimm\\C#\\HospitalProject\\HospitalProject\\Entities\\PatientComment.cs",
+              "RelativeToolTip": "HospitalProject\\Entities\\PatientComment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T14:39:35.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\veyse\\OneDrive\\Belgeler\\Projelerimm\\C#\\HospitalProject\\HospitalProject\\Entities\\Message.cs",
+              "RelativeDocumentMoniker": "HospitalProject\\Entities\\Message.cs",
+              "ToolTip": "C:\\Users\\veyse\\OneDrive\\Belgeler\\Projelerimm\\C#\\HospitalProject\\HospitalProject\\Entities\\Message.cs",
+              "RelativeToolTip": "HospitalProject\\Entities\\Message.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T14:39:34.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\veyse\\OneDrive\\Belgeler\\Projelerimm\\C#\\HospitalProject\\HospitalProject\\Entities\\Doctor.cs",
+              "RelativeDocumentMoniker": "HospitalProject\\Entities\\Doctor.cs",
+              "ToolTip": "C:\\Users\\veyse\\OneDrive\\Belgeler\\Projelerimm\\C#\\HospitalProject\\HospitalProject\\Entities\\Doctor.cs",
+              "RelativeToolTip": "HospitalProject\\Entities\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T14:39:33.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\veyse\\OneDrive\\Belgeler\\Projelerimm\\C#\\HospitalProject\\HospitalProject\\Entities\\Department.cs",
+              "RelativeDocumentMoniker": "HospitalProject\\Entities\\Department.cs",
+              "ToolTip": "C:\\Users\\veyse\\OneDrive\\Belgeler\\Projelerimm\\C#\\HospitalProject\\HospitalProject\\Entities\\Department.cs",
+              "RelativeToolTip": "HospitalProject\\Entities\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T14:39:28.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\veyse\\OneDrive\\Belgeler\\Projelerimm\\C#\\HospitalProject\\HospitalProject\\Entities\\Contact.cs",
+              "RelativeDocumentMoniker": "HospitalProject\\Entities\\Contact.cs",
+              "ToolTip": "C:\\Users\\veyse\\OneDrive\\Belgeler\\Projelerimm\\C#\\HospitalProject\\HospitalProject\\Entities\\Contact.cs",
+              "RelativeToolTip": "HospitalProject\\Entities\\Contact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T14:39:29.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\veyse\\OneDrive\\Belgeler\\Projelerimm\\C#\\HospitalProject\\HospitalProject\\Entities\\Admin.cs",
+              "RelativeDocumentMoniker": "HospitalProject\\Entities\\Admin.cs",
+              "ToolTip": "C:\\Users\\veyse\\OneDrive\\Belgeler\\Projelerimm\\C#\\HospitalProject\\HospitalProject\\Entities\\Admin.cs",
+              "RelativeToolTip": "HospitalProject\\Entities\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T14:39:19.781Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1473,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
